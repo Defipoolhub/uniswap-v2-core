@@ -1,0 +1,1078 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [  <!ENTITY quot "&#34;">  <!ENTITY amp "&#38;">  <!ENTITY apos "&#39;">  <!ENTITY lt "&#60;">  <!ENTITY gt "&#62;">  <!ENTITY nbsp "&#160;">  <!ENTITY iexcl "&#161;">  <!ENTITY cent "&#162;">  <!ENTITY pound "&#163;">  <!ENTITY curren "&#164;">  <!ENTITY yen "&#165;">  <!ENTITY brvbar "&#166;">  <!ENTITY sect "&#167;">  <!ENTITY uml "&#168;">  <!ENTITY copy "&#169;">  <!ENTITY ordf "&#170;">  <!ENTITY laquo "&#171;">  <!ENTITY not "&#172;">  <!ENTITY shy "&#173;">  <!ENTITY reg "&#174;">  <!ENTITY macr "&#175;">  <!ENTITY deg "&#176;">  <!ENTITY plusmn "&#177;">  <!ENTITY sup2 "&#178;">  <!ENTITY sup3 "&#179;">  <!ENTITY acute "&#180;">  <!ENTITY micro "&#181;">  <!ENTITY para "&#182;">  <!ENTITY middot "&#183;">  <!ENTITY cedil "&#184;">  <!ENTITY sup1 "&#185;">  <!ENTITY ordm "&#186;">  <!ENTITY raquo "&#187;">  <!ENTITY frac14 "&#188;">  <!ENTITY frac12 "&#189;">  <!ENTITY frac34 "&#190;">  <!ENTITY iquest "&#191;">  <!ENTITY Agrave "&#192;">  <!ENTITY Aacute "&#193;">  <!ENTITY Acirc "&#194;">  <!ENTITY Atilde "&#195;">  <!ENTITY Auml "&#196;">  <!ENTITY Aring "&#197;">  <!ENTITY AElig "&#198;">  <!ENTITY Ccedil "&#199;">  <!ENTITY Egrave "&#200;">  <!ENTITY Eacute "&#201;">  <!ENTITY Ecirc "&#202;">  <!ENTITY Euml "&#203;">  <!ENTITY Igrave "&#204;">  <!ENTITY Iacute "&#205;">  <!ENTITY Icirc "&#206;">  <!ENTITY Iuml "&#207;">  <!ENTITY ETH "&#208;">  <!ENTITY Ntilde "&#209;">  <!ENTITY Ograve "&#210;">  <!ENTITY Oacute "&#211;">  <!ENTITY Ocirc "&#212;">  <!ENTITY Otilde "&#213;">  <!ENTITY Ouml "&#214;">  <!ENTITY times "&#215;">  <!ENTITY Oslash "&#216;">  <!ENTITY Ugrave "&#217;">  <!ENTITY Uacute "&#218;">  <!ENTITY Ucirc "&#219;">  <!ENTITY Uuml "&#220;">  <!ENTITY Yacute "&#221;">  <!ENTITY THORN "&#222;">  <!ENTITY szlig "&#223;">  <!ENTITY agrave "&#224;">  <!ENTITY aacute "&#225;">  <!ENTITY acirc "&#226;">  <!ENTITY atilde "&#227;">  <!ENTITY auml "&#228;">  <!ENTITY aring "&#229;">  <!ENTITY aelig "&#230;">  <!ENTITY ccedil "&#231;">  <!ENTITY egrave "&#232;">  <!ENTITY eacute "&#233;">  <!ENTITY ecirc "&#234;">  <!ENTITY euml "&#235;">  <!ENTITY igrave "&#236;">  <!ENTITY iacute "&#237;">  <!ENTITY icirc "&#238;">  <!ENTITY iuml "&#239;">  <!ENTITY eth "&#240;">  <!ENTITY ntilde "&#241;">  <!ENTITY ograve "&#242;">  <!ENTITY oacute "&#243;">  <!ENTITY ocirc "&#244;">  <!ENTITY otilde "&#245;">  <!ENTITY ouml "&#246;">  <!ENTITY divide "&#247;">  <!ENTITY oslash "&#248;">  <!ENTITY ugrave "&#249;">  <!ENTITY uacute "&#250;">  <!ENTITY ucirc "&#251;">  <!ENTITY uuml "&#252;">  <!ENTITY yacute "&#253;">  <!ENTITY thorn "&#254;">  <!ENTITY yuml "&#255;">  <!ENTITY OElig "&#338;">  <!ENTITY oelig "&#339;">  <!ENTITY Scaron "&#352;">  <!ENTITY scaron "&#353;">  <!ENTITY Yuml "&#376;">  <!ENTITY fnof "&#402;">  <!ENTITY circ "&#710;">  <!ENTITY tilde "&#732;">  <!ENTITY Alpha "&#913;">  <!ENTITY Beta "&#914;">  <!ENTITY Gamma "&#915;">  <!ENTITY Delta "&#916;">  <!ENTITY Epsilon "&#917;">  <!ENTITY Zeta "&#918;">  <!ENTITY Eta "&#919;">  <!ENTITY Theta "&#920;">  <!ENTITY Iota "&#921;">  <!ENTITY Kappa "&#922;">  <!ENTITY Lambda "&#923;">  <!ENTITY Mu "&#924;">  <!ENTITY Nu "&#925;">  <!ENTITY Xi "&#926;">  <!ENTITY Omicron "&#927;">  <!ENTITY Pi "&#928;">  <!ENTITY Rho "&#929;">  <!ENTITY Sigma "&#931;">  <!ENTITY Tau "&#932;">  <!ENTITY Upsilon "&#933;">  <!ENTITY Phi "&#934;">  <!ENTITY Chi "&#935;">  <!ENTITY Psi "&#936;">  <!ENTITY Omega "&#937;">  <!ENTITY alpha "&#945;">  <!ENTITY beta "&#946;">  <!ENTITY gamma "&#947;">  <!ENTITY delta "&#948;">  <!ENTITY epsilon "&#949;">  <!ENTITY zeta "&#950;">  <!ENTITY eta "&#951;">  <!ENTITY theta "&#952;">  <!ENTITY iota "&#953;">  <!ENTITY kappa "&#954;">  <!ENTITY lambda "&#955;">  <!ENTITY mu "&#956;">  <!ENTITY nu "&#957;">  <!ENTITY xi "&#958;">  <!ENTITY omicron "&#959;">  <!ENTITY pi "&#960;">  <!ENTITY rho "&#961;">  <!ENTITY sigmaf "&#962;">  <!ENTITY sigma "&#963;">  <!ENTITY tau "&#964;">  <!ENTITY upsilon "&#965;">  <!ENTITY phi "&#966;">  <!ENTITY chi "&#967;">  <!ENTITY psi "&#968;">  <!ENTITY omega "&#969;">  <!ENTITY thetasym "&#977;">  <!ENTITY upsih "&#978;">  <!ENTITY piv "&#982;">  <!ENTITY ensp "&#8194;">  <!ENTITY emsp "&#8195;">  <!ENTITY thinsp "&#8201;">  <!ENTITY zwnj "&#8204;">  <!ENTITY zwj "&#8205;">  <!ENTITY lrm "&#8206;">  <!ENTITY rlm "&#8207;">  <!ENTITY ndash "&#8211;">  <!ENTITY mdash "&#8212;">  <!ENTITY lsquo "&#8216;">  <!ENTITY rsquo "&#8217;">  <!ENTITY sbquo "&#8218;">  <!ENTITY ldquo "&#8220;">  <!ENTITY rdquo "&#8221;">  <!ENTITY bdquo "&#8222;">  <!ENTITY dagger "&#8224;">  <!ENTITY Dagger "&#8225;">  <!ENTITY bull "&#8226;">  <!ENTITY hellip "&#8230;">  <!ENTITY permil "&#8240;">  <!ENTITY prime "&#8242;">  <!ENTITY Prime "&#8243;">  <!ENTITY lsaquo "&#8249;">  <!ENTITY rsaquo "&#8250;">  <!ENTITY oline "&#8254;">  <!ENTITY frasl "&#8260;">  <!ENTITY euro "&#8364;">  <!ENTITY image "&#8465;">  <!ENTITY weierp "&#8472;">  <!ENTITY real "&#8476;">  <!ENTITY trade "&#8482;">  <!ENTITY alefsym "&#8501;">  <!ENTITY larr "&#8592;">  <!ENTITY uarr "&#8593;">  <!ENTITY rarr "&#8594;">  <!ENTITY darr "&#8595;">  <!ENTITY harr "&#8596;">  <!ENTITY crarr "&#8629;">  <!ENTITY lArr "&#8656;">  <!ENTITY uArr "&#8657;">  <!ENTITY rArr "&#8658;">  <!ENTITY dArr "&#8659;">  <!ENTITY hArr "&#8660;">  <!ENTITY forall "&#8704;">  <!ENTITY part "&#8706;">  <!ENTITY exist "&#8707;">  <!ENTITY empty "&#8709;">  <!ENTITY nabla "&#8711;">  <!ENTITY isin "&#8712;">  <!ENTITY notin "&#8713;">  <!ENTITY ni "&#8715;">  <!ENTITY prod "&#8719;">  <!ENTITY sum "&#8721;">  <!ENTITY minus "&#8722;">  <!ENTITY lowast "&#8727;">  <!ENTITY radic "&#8730;">  <!ENTITY prop "&#8733;">  <!ENTITY infin "&#8734;">  <!ENTITY ang "&#8736;">  <!ENTITY and "&#8743;">  <!ENTITY or "&#8744;">  <!ENTITY cap "&#8745;">  <!ENTITY cup "&#8746;">  <!ENTITY int "&#8747;">  <!ENTITY there4 "&#8756;">  <!ENTITY sim "&#8764;">  <!ENTITY cong "&#8773;">  <!ENTITY asymp "&#8776;">  <!ENTITY ne "&#8800;">  <!ENTITY equiv "&#8801;">  <!ENTITY le "&#8804;">  <!ENTITY ge "&#8805;">  <!ENTITY sub "&#8834;">  <!ENTITY sup "&#8835;">  <!ENTITY nsub "&#8836;">  <!ENTITY sube "&#8838;">  <!ENTITY supe "&#8839;">  <!ENTITY oplus "&#8853;">  <!ENTITY otimes "&#8855;">  <!ENTITY perp "&#8869;">  <!ENTITY sdot "&#8901;">  <!ENTITY lceil "&#8968;">  <!ENTITY rceil "&#8969;">  <!ENTITY lfloor "&#8970;">  <!ENTITY rfloor "&#8971;">  <!ENTITY lang "&#9001;">  <!ENTITY rang "&#9002;">  <!ENTITY loz "&#9674;">  <!ENTITY spades "&#9824;">  <!ENTITY clubs "&#9827;">  <!ENTITY hearts "&#9829;">  <!ENTITY diams "&#9830;"> ]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="729pt" height="5362pt" viewBox="0.00 0.00 728.95 5362.00">
+<g id="graph0" class="graph" transform="translate(4,5358) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-5358 724.9546,-5358 724.9546,4 -4,4" style=""></polygon>
+<g id="clust1" class="cluster">
+<title style="">clusterUniswapV2Factory</title>
+<path fill="#445773" stroke="#445773" d="M62.9232,-8C62.9232,-8 363.5322,-8 363.5322,-8 369.5322,-8 375.5322,-14 375.5322,-20 375.5322,-20 375.5322,-289 375.5322,-289 375.5322,-295 369.5322,-301 363.5322,-301 363.5322,-301 62.9232,-301 62.9232,-301 56.9232,-301 50.9232,-295 50.9232,-289 50.9232,-289 50.9232,-20 50.9232,-20 50.9232,-14 56.9232,-8 62.9232,-8" style=""></path>
+<text text-anchor="middle" x="213.2277" y="-284.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">UniswapV2Factory</text>
+</g>
+<g id="clust2" class="cluster">
+<title style="">clusterUniswapV2ERC20</title>
+<path fill="#445773" stroke="#445773" d="M443.9785,-1389C443.9785,-1389 700.9546,-1389 700.9546,-1389 706.9546,-1389 712.9546,-1395 712.9546,-1401 712.9546,-1401 712.9546,-1778 712.9546,-1778 712.9546,-1784 706.9546,-1790 700.9546,-1790 700.9546,-1790 443.9785,-1790 443.9785,-1790 437.9785,-1790 431.9785,-1784 431.9785,-1778 431.9785,-1778 431.9785,-1401 431.9785,-1401 431.9785,-1395 437.9785,-1389 443.9785,-1389" style=""></path>
+<text text-anchor="middle" x="572.4666" y="-1773.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">UniswapV2ERC20</text>
+</g>
+<g id="clust3" class="cluster">
+<title style="">clusterIUniswapV2ERC20</title>
+<path fill="#445773" stroke="#445773" d="M20,-1598C20,-1598 235.7583,-1598 235.7583,-1598 241.7583,-1598 247.7583,-1604 247.7583,-1610 247.7583,-1610 247.7583,-2311 247.7583,-2311 247.7583,-2317 241.7583,-2323 235.7583,-2323 235.7583,-2323 20,-2323 20,-2323 14,-2323 8,-2317 8,-2311 8,-2311 8,-1610 8,-1610 8,-1604 14,-1598 20,-1598" style=""></path>
+<text text-anchor="middle" x="127.8792" y="-2306.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2ERC20 &nbsp;(iface)</text>
+</g>
+<g id="clust4" class="cluster">
+<title style="">clusterSafeMath</title>
+<path fill="#445773" stroke="#445773" d="M89.8792,-2331C89.8792,-2331 166.8792,-2331 166.8792,-2331 172.8792,-2331 178.8792,-2337 178.8792,-2343 178.8792,-2343 178.8792,-2504 178.8792,-2504 178.8792,-2510 172.8792,-2516 166.8792,-2516 166.8792,-2516 89.8792,-2516 89.8792,-2516 83.8792,-2516 77.8792,-2510 77.8792,-2504 77.8792,-2504 77.8792,-2343 77.8792,-2343 77.8792,-2337 83.8792,-2331 89.8792,-2331" style=""></path>
+<text text-anchor="middle" x="128.3792" y="-2499.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SafeMath &nbsp;(lib)</text>
+</g>
+<g id="clust5" class="cluster">
+<title style="">clusterIUniswapV2Factory</title>
+<path fill="#445773" stroke="#445773" d="M53.9232,-2524C53.9232,-2524 202.8351,-2524 202.8351,-2524 208.8351,-2524 214.8351,-2530 214.8351,-2536 214.8351,-2536 214.8351,-2967 214.8351,-2967 214.8351,-2973 208.8351,-2979 202.8351,-2979 202.8351,-2979 53.9232,-2979 53.9232,-2979 47.9232,-2979 41.9232,-2973 41.9232,-2967 41.9232,-2967 41.9232,-2536 41.9232,-2536 41.9232,-2530 47.9232,-2524 53.9232,-2524" style=""></path>
+<text text-anchor="middle" x="128.3792" y="-2962.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Factory &nbsp;(iface)</text>
+</g>
+<g id="clust6" class="cluster">
+<title style="">clusterUniswapV2Pair</title>
+<path fill="#445773" stroke="#445773" d="M64.3582,-1127C64.3582,-1127 399.9785,-1127 399.9785,-1127 405.9785,-1127 411.9785,-1133 411.9785,-1139 411.9785,-1139 411.9785,-1578 411.9785,-1578 411.9785,-1584 405.9785,-1590 399.9785,-1590 399.9785,-1590 64.3582,-1590 64.3582,-1590 58.3582,-1590 52.3582,-1584 52.3582,-1578 52.3582,-1578 52.3582,-1139 52.3582,-1139 52.3582,-1133 58.3582,-1127 64.3582,-1127" style=""></path>
+<text text-anchor="middle" x="232.1684" y="-1573.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">UniswapV2Pair</text>
+</g>
+<g id="clust7" class="cluster">
+<title style="">clusterIUniswapV2Pair</title>
+<path fill="#445773" stroke="#445773" d="M20,-2987C20,-2987 235.7583,-2987 235.7583,-2987 241.7583,-2987 247.7583,-2993 247.7583,-2999 247.7583,-2999 247.7583,-4456 247.7583,-4456 247.7583,-4462 241.7583,-4468 235.7583,-4468 235.7583,-4468 20,-4468 20,-4468 14,-4468 8,-4462 8,-4456 8,-4456 8,-2999 8,-2999 8,-2993 14,-2987 20,-2987" style=""></path>
+<text text-anchor="middle" x="127.8792" y="-4451.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Pair &nbsp;(iface)</text>
+</g>
+<g id="clust8" class="cluster">
+<title style="">clusterMath</title>
+<path fill="#445773" stroke="#445773" d="M481.4995,-996C481.4995,-996 533.4995,-996 533.4995,-996 539.4995,-996 545.4995,-1002 545.4995,-1008 545.4995,-1008 545.4995,-1115 545.4995,-1115 545.4995,-1121 539.4995,-1127 533.4995,-1127 533.4995,-1127 481.4995,-1127 481.4995,-1127 475.4995,-1127 469.4995,-1121 469.4995,-1115 469.4995,-1115 469.4995,-1008 469.4995,-1008 469.4995,-1002 475.4995,-996 481.4995,-996" style=""></path>
+<text text-anchor="middle" x="507.4995" y="-1110.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Math &nbsp;(lib)</text>
+</g>
+<g id="clust9" class="cluster">
+<title style="">clusterUQ112x112</title>
+<path fill="#445773" stroke="#445773" d="M82.4971,-4476C82.4971,-4476 174.2612,-4476 174.2612,-4476 180.2612,-4476 186.2612,-4482 186.2612,-4488 186.2612,-4488 186.2612,-4595 186.2612,-4595 186.2612,-4601 180.2612,-4607 174.2612,-4607 174.2612,-4607 82.4971,-4607 82.4971,-4607 76.4971,-4607 70.4971,-4601 70.4971,-4595 70.4971,-4595 70.4971,-4488 70.4971,-4488 70.4971,-4482 76.4971,-4476 82.4971,-4476" style=""></path>
+<text text-anchor="middle" x="128.3792" y="-4590.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">UQ112x112 &nbsp;(lib)</text>
+</g>
+<g id="clust10" class="cluster">
+<title style="">clusterIERC20</title>
+<path fill="#445773" stroke="#445773" d="M70.4334,-4615C70.4334,-4615 185.3249,-4615 185.3249,-4615 191.3249,-4615 197.3249,-4621 197.3249,-4627 197.3249,-4627 197.3249,-5112 197.3249,-5112 197.3249,-5118 191.3249,-5124 185.3249,-5124 185.3249,-5124 70.4334,-5124 70.4334,-5124 64.4334,-5124 58.4334,-5118 58.4334,-5112 58.4334,-5112 58.4334,-4627 58.4334,-4627 58.4334,-4621 64.4334,-4615 70.4334,-4615" style=""></path>
+<text text-anchor="middle" x="127.8792" y="-5107.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20 &nbsp;(iface)</text>
+</g>
+<g id="clust11" class="cluster">
+<title style="">clusterIUniswapV2Callee</title>
+<path fill="#445773" stroke="#445773" d="M56.7658,-5132C56.7658,-5132 198.9925,-5132 198.9925,-5132 204.9925,-5132 210.9925,-5138 210.9925,-5144 210.9925,-5144 210.9925,-5197 210.9925,-5197 210.9925,-5203 204.9925,-5209 198.9925,-5209 198.9925,-5209 56.7658,-5209 56.7658,-5209 50.7658,-5209 44.7658,-5203 44.7658,-5197 44.7658,-5197 44.7658,-5144 44.7658,-5144 44.7658,-5138 50.7658,-5132 56.7658,-5132" style=""></path>
+<text text-anchor="middle" x="127.8792" y="-5192.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Callee &nbsp;(iface)</text>
+</g>
+<g id="clust12" class="cluster">
+<title style="">clustertotalSupply</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M629.9875,-1196C629.9875,-1196 685.9875,-1196 685.9875,-1196 691.9875,-1196 697.9875,-1202 697.9875,-1208 697.9875,-1208 697.9875,-1369 697.9875,-1369 697.9875,-1375 691.9875,-1381 685.9875,-1381 685.9875,-1381 629.9875,-1381 629.9875,-1381 623.9875,-1381 617.9875,-1375 617.9875,-1369 617.9875,-1369 617.9875,-1208 617.9875,-1208 617.9875,-1202 623.9875,-1196 629.9875,-1196" style=""></path>
+<text text-anchor="middle" x="657.9875" y="-1364.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">totalSupply</text>
+</g>
+<g id="clust13" class="cluster">
+<title style="">clustertoken</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M484.4995,-1165C484.4995,-1165 530.4995,-1165 530.4995,-1165 536.4995,-1165 542.4995,-1171 542.4995,-1177 542.4995,-1177 542.4995,-1230 542.4995,-1230 542.4995,-1236 536.4995,-1242 530.4995,-1242 530.4995,-1242 484.4995,-1242 484.4995,-1242 478.4995,-1242 472.4995,-1236 472.4995,-1230 472.4995,-1230 472.4995,-1177 472.4995,-1177 472.4995,-1171 478.4995,-1165 484.4995,-1165" style=""></path>
+<text text-anchor="middle" x="507.4995" y="-1225.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">token</text>
+</g>
+<g id="clust14" class="cluster">
+<title style="">clusterrootK</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M484.4995,-1250C484.4995,-1250 530.4995,-1250 530.4995,-1250 536.4995,-1250 542.4995,-1256 542.4995,-1262 542.4995,-1262 542.4995,-1369 542.4995,-1369 542.4995,-1375 536.4995,-1381 530.4995,-1381 530.4995,-1381 484.4995,-1381 484.4995,-1381 478.4995,-1381 472.4995,-1375 472.4995,-1369 472.4995,-1369 472.4995,-1262 472.4995,-1262 472.4995,-1256 478.4995,-1250 484.4995,-1250" style=""></path>
+<text text-anchor="middle" x="507.4995" y="-1364.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">rootK</text>
+</g>
+<g id="clust15" class="cluster">
+<title style="">clusterbalance0</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M316.8684,-988C316.8684,-988 362.8684,-988 362.8684,-988 368.8684,-988 374.8684,-994 374.8684,-1000 374.8684,-1000 374.8684,-1107 374.8684,-1107 374.8684,-1113 368.8684,-1119 362.8684,-1119 362.8684,-1119 316.8684,-1119 316.8684,-1119 310.8684,-1119 304.8684,-1113 304.8684,-1107 304.8684,-1107 304.8684,-1000 304.8684,-1000 304.8684,-994 310.8684,-988 316.8684,-988" style=""></path>
+<text text-anchor="middle" x="339.8684" y="-1102.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">balance0</text>
+</g>
+<g id="clust16" class="cluster">
+<title style="">clusterbalance1</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M316.8684,-849C316.8684,-849 362.8684,-849 362.8684,-849 368.8684,-849 374.8684,-855 374.8684,-861 374.8684,-861 374.8684,-968 374.8684,-968 374.8684,-974 368.8684,-980 362.8684,-980 362.8684,-980 316.8684,-980 316.8684,-980 310.8684,-980 304.8684,-974 304.8684,-968 304.8684,-968 304.8684,-861 304.8684,-861 304.8684,-855 310.8684,-849 316.8684,-849" style=""></path>
+<text text-anchor="middle" x="339.8684" y="-963.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">balance1</text>
+</g>
+<g id="clust17" class="cluster">
+<title style="">clusteramount0</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M316.8684,-764C316.8684,-764 362.8684,-764 362.8684,-764 368.8684,-764 374.8684,-770 374.8684,-776 374.8684,-776 374.8684,-829 374.8684,-829 374.8684,-835 368.8684,-841 362.8684,-841 362.8684,-841 316.8684,-841 316.8684,-841 310.8684,-841 304.8684,-835 304.8684,-829 304.8684,-829 304.8684,-776 304.8684,-776 304.8684,-770 310.8684,-764 316.8684,-764" style=""></path>
+<text text-anchor="middle" x="339.8684" y="-824.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">amount0</text>
+</g>
+<g id="clust18" class="cluster">
+<title style="">clusteramount1</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M316.8684,-679C316.8684,-679 362.8684,-679 362.8684,-679 368.8684,-679 374.8684,-685 374.8684,-691 374.8684,-691 374.8684,-744 374.8684,-744 374.8684,-750 368.8684,-756 362.8684,-756 362.8684,-756 316.8684,-756 316.8684,-756 310.8684,-756 304.8684,-750 304.8684,-744 304.8684,-744 304.8684,-691 304.8684,-691 304.8684,-685 310.8684,-679 316.8684,-679" style=""></path>
+<text text-anchor="middle" x="339.8684" y="-739.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">amount1</text>
+</g>
+<g id="clust19" class="cluster">
+<title style="">clusterliquidity</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M316.8684,-564C316.8684,-564 362.8684,-564 362.8684,-564 368.8684,-564 374.8684,-570 374.8684,-576 374.8684,-576 374.8684,-629 374.8684,-629 374.8684,-635 368.8684,-641 362.8684,-641 362.8684,-641 316.8684,-641 316.8684,-641 310.8684,-641 304.8684,-635 304.8684,-629 304.8684,-629 304.8684,-576 304.8684,-576 304.8684,-570 310.8684,-564 316.8684,-564" style=""></path>
+<text text-anchor="middle" x="339.8684" y="-624.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">liquidity</text>
+</g>
+<g id="clust20" class="cluster">
+<title style="">clusteramount0In</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M313.8684,-479C313.8684,-479 365.8684,-479 365.8684,-479 371.8684,-479 377.8684,-485 377.8684,-491 377.8684,-491 377.8684,-544 377.8684,-544 377.8684,-550 371.8684,-556 365.8684,-556 365.8684,-556 313.8684,-556 313.8684,-556 307.8684,-556 301.8684,-550 301.8684,-544 301.8684,-544 301.8684,-491 301.8684,-491 301.8684,-485 307.8684,-479 313.8684,-479" style=""></path>
+<text text-anchor="middle" x="339.8684" y="-539.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">amount0In</text>
+</g>
+<g id="clust21" class="cluster">
+<title style="">clusteramount1In</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M313.8684,-394C313.8684,-394 365.8684,-394 365.8684,-394 371.8684,-394 377.8684,-400 377.8684,-406 377.8684,-406 377.8684,-459 377.8684,-459 377.8684,-465 371.8684,-471 365.8684,-471 365.8684,-471 313.8684,-471 313.8684,-471 307.8684,-471 301.8684,-465 301.8684,-459 301.8684,-459 301.8684,-406 301.8684,-406 301.8684,-400 307.8684,-394 313.8684,-394" style=""></path>
+<text text-anchor="middle" x="339.8684" y="-454.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">amount1In</text>
+</g>
+<g id="clust22" class="cluster">
+<title style="">clusterbalance0Adjusted</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M293.8684,-309C293.8684,-309 385.8684,-309 385.8684,-309 391.8684,-309 397.8684,-315 397.8684,-321 397.8684,-321 397.8684,-374 397.8684,-374 397.8684,-380 391.8684,-386 385.8684,-386 385.8684,-386 293.8684,-386 293.8684,-386 287.8684,-386 281.8684,-380 281.8684,-374 281.8684,-374 281.8684,-321 281.8684,-321 281.8684,-315 287.8684,-309 293.8684,-309" style=""></path>
+<text text-anchor="middle" x="339.8684" y="-369.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">balance0Adjusted</text>
+</g>
+<g id="clust23" class="cluster">
+<title style="">cluster_01</title>
+<polygon fill="#2e3e56" stroke="#000000" points="54.8792,-5217 54.8792,-5346 374.8684,-5346 374.8684,-5217 54.8792,-5217" style=""></polygon>
+<text text-anchor="middle" x="214.8738" y="-5329.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Legend</text>
+</g>
+<!-- UniswapV2Factory.&lt;Constructor&gt; -->
+<g id="node1" class="node" data-name="UniswapV2Factory.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.8792" cy="-250" rx="67.5419" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-245.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- UniswapV2Factory.allPairsLength -->
+<g id="node2" class="node" data-name="UniswapV2Factory.allPairsLength">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-196" rx="67.21" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-191.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">allPairsLength</text>
+</g>
+<!-- UniswapV2Factory.createPair -->
+<g id="node3" class="node" data-name="UniswapV2Factory.createPair">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-142" rx="49.771" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">createPair</text>
+</g>
+<!-- UniswapV2Factory.type -->
+<g id="node6" class="node" data-name="UniswapV2Factory.type">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-142" rx="27.8286" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">type</text>
+</g>
+<!-- UniswapV2Factory.createPair&#45;&gt;UniswapV2Factory.type -->
+<g id="edge1" class="edge" data-name="UniswapV2Factory.createPair->UniswapV2Factory.type">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M177.5812,-142C215.5108,-142 266.9886,-142 301.7127,-142" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="301.9178,-145.5001 311.9178,-142 301.9177,-138.5001 301.9178,-145.5001" style=""></polygon>
+</g>
+<!-- UniswapV2Factory.setFeeTo -->
+<g id="node4" class="node" data-name="UniswapV2Factory.setFeeTo">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-88" rx="46.3643" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">setFeeTo</text>
+</g>
+<!-- UniswapV2Factory.setFeeToSetter -->
+<g id="node5" class="node" data-name="UniswapV2Factory.setFeeToSetter">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-34" rx="68.912" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">setFeeToSetter</text>
+</g>
+<!-- UniswapV2ERC20.&lt;Constructor&gt; -->
+<g id="node7" class="node" data-name="UniswapV2ERC20.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="507.4995" cy="-1739" rx="67.5419" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1734.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- UniswapV2ERC20._mint -->
+<g id="node8" class="node" data-name="UniswapV2ERC20._mint">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="507.4995" cy="-1415" rx="33.646" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1410.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_mint</text>
+</g>
+<!-- totalSupply.add -->
+<g id="node93" class="node" data-name="totalSupply.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="657.9875" cy="-1276" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="657.9875" y="-1271.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">add</text>
+</g>
+<!-- UniswapV2ERC20._mint&#45;&gt;totalSupply.add -->
+<g id="edge2" class="edge" data-name="UniswapV2ERC20._mint->totalSupply.add">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M537.5941,-1406.9908C550.4394,-1402.321 564.7936,-1395.2721 575.0204,-1385 603.1024,-1356.7936 584.4369,-1332.6229 611.0204,-1303 615.3077,-1298.2225 620.6473,-1294.0733 626.1733,-1290.557" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="627.9577,-1293.5684 634.8861,-1285.5529 624.4713,-1287.4983 627.9577,-1293.5684" style=""></polygon>
+</g>
+<!-- UniswapV2ERC20._burn -->
+<g id="node9" class="node" data-name="UniswapV2ERC20._burn">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="507.4995" cy="-1469" rx="33.6305" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1464.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_burn</text>
+</g>
+<!-- totalSupply.sub -->
+<g id="node94" class="node" data-name="totalSupply.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="657.9875" cy="-1330" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="657.9875" y="-1325.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sub</text>
+</g>
+<!-- UniswapV2ERC20._burn&#45;&gt;totalSupply.sub -->
+<g id="edge3" class="edge" data-name="UniswapV2ERC20._burn->totalSupply.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M537.9174,-1461.3378C550.377,-1457.116 564.3448,-1450.8819 575.0204,-1442 598.0539,-1422.8366 593.2459,-1409.1214 611.0204,-1385 619.051,-1374.1018 628.6477,-1362.6282 637.0671,-1352.9966" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="639.7918,-1355.199 643.8022,-1345.3925 634.5517,-1350.5578 639.7918,-1355.199" style=""></polygon>
+</g>
+<!-- UniswapV2ERC20._approve -->
+<g id="node10" class="node" data-name="UniswapV2ERC20._approve">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="657.9875" cy="-1550" rx="46.9342" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="657.9875" y="-1545.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_approve</text>
+</g>
+<!-- UniswapV2ERC20._transfer -->
+<g id="node11" class="node" data-name="UniswapV2ERC20._transfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="657.9875" cy="-1658" rx="45.2015" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="657.9875" y="-1653.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_transfer</text>
+</g>
+<!-- UniswapV2ERC20.approve -->
+<g id="node12" class="node" data-name="UniswapV2ERC20.approve">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="507.4995" cy="-1577" rx="42.2777" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1572.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">approve</text>
+</g>
+<!-- UniswapV2ERC20.approve&#45;&gt;UniswapV2ERC20._approve -->
+<g id="edge4" class="edge" data-name="UniswapV2ERC20.approve->UniswapV2ERC20._approve">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M546.6456,-1569.9766C564.5925,-1566.7566 586.13,-1562.8924 605.4603,-1559.4242" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="606.1121,-1562.8633 615.3369,-1557.6522 604.8759,-1555.9733 606.1121,-1562.8633" style=""></polygon>
+</g>
+<!-- UniswapV2ERC20.transfer -->
+<g id="node13" class="node" data-name="UniswapV2ERC20.transfer">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="507.4995" cy="-1685" rx="40.5441" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1680.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">transfer</text>
+</g>
+<!-- UniswapV2ERC20.transfer&#45;&gt;UniswapV2ERC20._transfer -->
+<g id="edge5" class="edge" data-name="UniswapV2ERC20.transfer->UniswapV2ERC20._transfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M545.0858,-1678.2564C563.7045,-1674.9159 586.4681,-1670.8318 606.6651,-1667.2081" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="607.4251,-1670.6277 616.6498,-1665.4167 606.1889,-1663.7377 607.4251,-1670.6277" style=""></polygon>
+</g>
+<!-- UniswapV2ERC20.transferFrom -->
+<g id="node14" class="node" data-name="UniswapV2ERC20.transferFrom">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="507.4995" cy="-1631" rx="61.3916" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1626.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">transferFrom</text>
+</g>
+<!-- UniswapV2ERC20.transferFrom&#45;&gt;UniswapV2ERC20._transfer -->
+<g id="edge6" class="edge" data-name="UniswapV2ERC20.transferFrom->UniswapV2ERC20._transfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M560.1329,-1640.4433C575.1457,-1643.1368 591.4825,-1646.0679 606.4304,-1648.7498" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="606.0628,-1652.2397 616.5237,-1650.5607 607.299,-1645.3497 606.0628,-1652.2397" style=""></polygon>
+</g>
+<!-- UniswapV2ERC20.permit -->
+<g id="node15" class="node" data-name="UniswapV2ERC20.permit">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="507.4995" cy="-1523" rx="36.4936" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1518.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">permit</text>
+</g>
+<!-- UniswapV2ERC20.permit&#45;&gt;UniswapV2ERC20._approve -->
+<g id="edge7" class="edge" data-name="UniswapV2ERC20.permit->UniswapV2ERC20._approve">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M541.6475,-1529.1267C560.4277,-1532.4962 584.1348,-1536.7496 605.2411,-1540.5364" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="604.8995,-1544.031 615.3604,-1542.352 606.1357,-1537.141 604.8995,-1544.031" style=""></polygon>
+</g>
+<!-- IUniswapV2ERC20.name -->
+<g id="node16" class="node" data-name="IUniswapV2ERC20.name">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2272" rx="31.9012" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2267.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">name</text>
+</g>
+<!-- IUniswapV2ERC20.symbol -->
+<g id="node17" class="node" data-name="IUniswapV2ERC20.symbol">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2218" rx="39.4466" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2213.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">symbol</text>
+</g>
+<!-- IUniswapV2ERC20.decimals -->
+<g id="node18" class="node" data-name="IUniswapV2ERC20.decimals">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2164" rx="45.2208" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2159.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">decimals</text>
+</g>
+<!-- IUniswapV2ERC20.totalSupply -->
+<g id="node19" class="node" data-name="IUniswapV2ERC20.totalSupply">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2110" rx="55.6372" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2105.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">totalSupply</text>
+</g>
+<!-- IUniswapV2ERC20.balanceOf -->
+<g id="node20" class="node" data-name="IUniswapV2ERC20.balanceOf">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2056" rx="50.9211" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2051.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">balanceOf</text>
+</g>
+<!-- IUniswapV2ERC20.allowance -->
+<g id="node21" class="node" data-name="IUniswapV2ERC20.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2002" rx="50.3586" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1997.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">allowance</text>
+</g>
+<!-- IUniswapV2ERC20.approve -->
+<g id="node22" class="node" data-name="IUniswapV2ERC20.approve">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1948" rx="42.2777" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1943.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">approve</text>
+</g>
+<!-- IUniswapV2ERC20.transfer -->
+<g id="node23" class="node" data-name="IUniswapV2ERC20.transfer">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1894" rx="40.5441" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1889.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">transfer</text>
+</g>
+<!-- IUniswapV2ERC20.transferFrom -->
+<g id="node24" class="node" data-name="IUniswapV2ERC20.transferFrom">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1840" rx="61.3916" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1835.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">transferFrom</text>
+</g>
+<!-- IUniswapV2ERC20.DOMAIN_SEPARATOR -->
+<g id="node25" class="node" data-name="IUniswapV2ERC20.DOMAIN_SEPARATOR">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1786" rx="111.7584" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1781.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">DOMAIN_SEPARATOR</text>
+</g>
+<!-- IUniswapV2ERC20.PERMIT_TYPEHASH -->
+<g id="node26" class="node" data-name="IUniswapV2ERC20.PERMIT_TYPEHASH">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1732" rx="101.8844" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1727.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">PERMIT_TYPEHASH</text>
+</g>
+<!-- IUniswapV2ERC20.nonces -->
+<g id="node27" class="node" data-name="IUniswapV2ERC20.nonces">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1678" rx="37.7025" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1673.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">nonces</text>
+</g>
+<!-- IUniswapV2ERC20.permit -->
+<g id="node28" class="node" data-name="IUniswapV2ERC20.permit">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1624" rx="36.4936" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1619.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">permit</text>
+</g>
+<!-- SafeMath.add -->
+<g id="node29" class="node" data-name="SafeMath.add">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.8792" cy="-2465" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2460.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">add</text>
+</g>
+<!-- SafeMath.sub -->
+<g id="node30" class="node" data-name="SafeMath.sub">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.8792" cy="-2411" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2406.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sub</text>
+</g>
+<!-- SafeMath.mul -->
+<g id="node31" class="node" data-name="SafeMath.mul">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.8792" cy="-2357" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2352.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- IUniswapV2Factory.feeTo -->
+<g id="node32" class="node" data-name="IUniswapV2Factory.feeTo">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2928" rx="33.6054" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2923.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">feeTo</text>
+</g>
+<!-- IUniswapV2Factory.feeToSetter -->
+<g id="node33" class="node" data-name="IUniswapV2Factory.feeToSetter">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2874" rx="56.1531" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2869.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">feeToSetter</text>
+</g>
+<!-- IUniswapV2Factory.getPair -->
+<g id="node34" class="node" data-name="IUniswapV2Factory.getPair">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2820" rx="38.278" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2815.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getPair</text>
+</g>
+<!-- IUniswapV2Factory.allPairs -->
+<g id="node35" class="node" data-name="IUniswapV2Factory.allPairs">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2766" rx="39.9992" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2761.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">allPairs</text>
+</g>
+<!-- IUniswapV2Factory.allPairsLength -->
+<g id="node36" class="node" data-name="IUniswapV2Factory.allPairsLength">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2712" rx="67.21" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2707.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">allPairsLength</text>
+</g>
+<!-- IUniswapV2Factory.createPair -->
+<g id="node37" class="node" data-name="IUniswapV2Factory.createPair">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2658" rx="49.771" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2653.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">createPair</text>
+</g>
+<!-- IUniswapV2Factory.setFeeTo -->
+<g id="node38" class="node" data-name="IUniswapV2Factory.setFeeTo">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2604" rx="46.3643" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2599.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">setFeeTo</text>
+</g>
+<!-- IUniswapV2Factory.setFeeToSetter -->
+<g id="node39" class="node" data-name="IUniswapV2Factory.setFeeToSetter">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-2550" rx="68.912" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-2545.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">setFeeToSetter</text>
+</g>
+<!-- UniswapV2Pair.lock -->
+<g id="node40" class="node" data-name="UniswapV2Pair.lock">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="157.7722,-1527.5442 157.7722,-1542.4558 140.2612,-1553 115.4971,-1553 97.9861,-1542.4558 97.9861,-1527.5442 115.4971,-1517 140.2612,-1517 157.7722,-1527.5442" style=""></polygon>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="161.7655,-1525.2816 161.7655,-1544.7184 141.3691,-1557 114.3892,-1557 93.9928,-1544.7184 93.9928,-1525.2816 114.3892,-1513 141.3691,-1513 161.7655,-1525.2816" style=""></polygon>
+<text text-anchor="middle" x="127.8792" y="-1530.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">lock</text>
+</g>
+<!-- UniswapV2Pair.getReserves -->
+<g id="node41" class="node" data-name="UniswapV2Pair.getReserves">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-1183" rx="57.881" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-1178.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getReserves</text>
+</g>
+<!-- UniswapV2Pair._safeTransfer -->
+<g id="node42" class="node" data-name="UniswapV2Pair._safeTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-1345" rx="64.2204" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-1340.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_safeTransfer</text>
+</g>
+<!-- token.call -->
+<g id="node96" class="node" data-name="token.call">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="507.4995" cy="-1191" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1186.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">call</text>
+</g>
+<!-- UniswapV2Pair._safeTransfer&#45;&gt;token.call -->
+<g id="edge8" class="edge" data-name="UniswapV2Pair._safeTransfer->token.call">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M389.4822,-1333.5466C397.871,-1329.7488 405.8375,-1324.7022 411.9785,-1318 434.4153,-1293.5132 413.0577,-1273.295 431.9785,-1246 443.3335,-1229.6194 461.1883,-1216.292 476.6866,-1206.8609" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="478.5785,-1209.8097 485.4725,-1201.7646 475.0662,-1203.7546 478.5785,-1209.8097" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.&lt;Constructor&gt; -->
+<g id="node43" class="node" data-name="UniswapV2Pair.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.8792" cy="-1477" rx="67.5419" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1472.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- UniswapV2Pair.initialize -->
+<g id="node44" class="node" data-name="UniswapV2Pair.initialize">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1423" rx="44.6549" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1418.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">initialize</text>
+</g>
+<!-- UniswapV2Pair._update -->
+<g id="node45" class="node" data-name="UniswapV2Pair._update">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-1237" rx="41.7153" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-1232.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_update</text>
+</g>
+<!-- UniswapV2Pair._mintFee -->
+<g id="node46" class="node" data-name="UniswapV2Pair._mintFee">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-1291" rx="47.5293" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-1286.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_mintFee</text>
+</g>
+<!-- UniswapV2Pair._mintFee&#45;&gt;UniswapV2ERC20._mint -->
+<g id="edge14" class="edge" data-name="UniswapV2Pair._mintFee->UniswapV2ERC20._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M381.8996,-1299.515C392.9185,-1303.5261 403.9486,-1309.4031 411.9785,-1318 433.191,-1340.7104 410.9926,-1362.0801 431.9785,-1385 440.9243,-1394.7702 453.4679,-1401.4093 465.7665,-1405.8996" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="464.9117,-1409.3019 475.5037,-1409.059 467.0721,-1402.6436 464.9117,-1409.3019" style=""></polygon>
+</g>
+<!-- Math.sqrt -->
+<g id="node79" class="node" data-name="Math.sqrt">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="507.4995" cy="-1076" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1071.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sqrt</text>
+</g>
+<!-- UniswapV2Pair._mintFee&#45;&gt;Math.sqrt -->
+<g id="edge9" class="edge" data-name="UniswapV2Pair._mintFee->Math.sqrt">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M372.9605,-1278.0186C387.0366,-1273.4905 402.3855,-1266.8412 411.9785,-1255 449.6066,-1208.5536 400.9743,-1173.1065 431.9785,-1122 441.5231,-1106.2669 457.4405,-1093.6766 472.2076,-1085.3169" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="473.9152,-1088.3742 481.1863,-1080.6683 470.6967,-1082.1579 473.9152,-1088.3742" style=""></polygon>
+</g>
+<!-- UniswapV2Pair._mintFee&#45;&gt;Math.sqrt -->
+<g id="edge10" class="edge" data-name="UniswapV2Pair._mintFee->Math.sqrt">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M387.5725,-1290.051C396.8648,-1286.3333 405.6673,-1280.7903 411.9785,-1273 449.6066,-1226.5536 400.9743,-1191.1065 431.9785,-1140 443.5488,-1120.9279 464.4839,-1106.4741 481.3823,-1095.7855" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="483.6459,-1098.4981 490.2699,-1090.2293 479.9352,-1092.5625 483.6459,-1098.4981" style=""></polygon>
+</g>
+<!-- totalSupply.mul -->
+<g id="node95" class="node" data-name="totalSupply.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="657.9875" cy="-1222" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="657.9875" y="-1217.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Pair._mintFee&#45;&gt;totalSupply.mul -->
+<g id="edge11" class="edge" data-name="UniswapV2Pair._mintFee->totalSupply.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M382.4578,-1282.9813C393.4856,-1278.978 404.3807,-1272.981 411.9785,-1264 442.0971,-1228.3982 395.9985,-1190.6657 431.9785,-1161 481.0299,-1120.557 514.6137,-1141.1834 575.0204,-1161 598.3105,-1168.6404 620.4508,-1185.5929 635.9929,-1199.692" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="633.8069,-1202.4407 643.4901,-1206.7403 638.6016,-1197.3406 633.8069,-1202.4407" style=""></polygon>
+</g>
+<!-- rootK.sub -->
+<g id="node97" class="node" data-name="rootK.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="507.4995" cy="-1330" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1325.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sub</text>
+</g>
+<!-- UniswapV2Pair._mintFee&#45;&gt;rootK.sub -->
+<g id="edge12" class="edge" data-name="UniswapV2Pair._mintFee->rootK.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M380.4472,-1300.4408C408.457,-1306.9574 445.3382,-1315.5379 472.1448,-1321.7746" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="471.353,-1325.1838 481.886,-1324.0409 472.9392,-1318.3659 471.353,-1325.1838" style=""></polygon>
+</g>
+<!-- rootK.mul -->
+<g id="node98" class="node" data-name="rootK.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="507.4995" cy="-1276" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1271.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Pair._mintFee&#45;&gt;rootK.mul -->
+<g id="edge13" class="edge" data-name="UniswapV2Pair._mintFee->rootK.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M386.1181,-1286.8615C412.744,-1284.4789 445.7471,-1281.5257 470.6159,-1279.3004" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="471.0854,-1282.7725 480.7336,-1278.3951 470.4614,-1275.8003 471.0854,-1282.7725" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.mint -->
+<g id="node47" class="node" data-name="UniswapV2Pair.mint">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1207" rx="28.991" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1202.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mint</text>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;UniswapV2ERC20._mint -->
+<g id="edge21" class="edge" data-name="UniswapV2Pair.mint->UniswapV2ERC20._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M153.7159,-1198.6339C180.969,-1195.9487 223.2841,-1199.9976 247.7583,-1225 291.5363,-1269.7228 231.1371,-1319.1185 275.7583,-1363 325.435,-1411.8532 411.5475,-1414.7426 463.6519,-1413.8472" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="463.9928,-1417.3407 473.9136,-1413.6221 463.8392,-1410.3424 463.9928,-1417.3407" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;UniswapV2ERC20._mint -->
+<g id="edge25" class="edge" data-name="UniswapV2Pair.mint->UniswapV2ERC20._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M155.481,-1212.0354C182.767,-1214.1311 223.8064,-1218.5312 247.7583,-1243 291.5363,-1287.7228 231.1371,-1337.1185 275.7583,-1381 327.0727,-1431.4637 417.2649,-1432.8832 468.6917,-1425.9104" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="469.3922,-1429.3439 478.7433,-1424.363 468.3271,-1422.4254 469.3922,-1429.3439" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;UniswapV2Pair.getReserves -->
+<g id="edge15" class="edge" data-name="UniswapV2Pair.mint->UniswapV2Pair.getReserves">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.469,-1203.7633C186.7229,-1200.3381 235.4761,-1194.8186 275.1136,-1190.3311" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="275.6966,-1193.7876 285.2393,-1189.1847 274.909,-1186.832 275.6966,-1193.7876" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;UniswapV2Pair._update -->
+<g id="edge26" class="edge" data-name="UniswapV2Pair.mint->UniswapV2Pair._update">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.0297,-1210.9838C190.1576,-1215.8134 248.2811,-1224.0389 290.0441,-1229.949" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="289.6264,-1233.4247 300.0182,-1231.3605 290.6073,-1226.4938 289.6264,-1233.4247" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;UniswapV2Pair._mintFee -->
+<g id="edge18" class="edge" data-name="UniswapV2Pair.mint->UniswapV2Pair._mintFee">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.7308,-1208.7093C182.1538,-1211.2891 219.4435,-1217.7618 247.7583,-1234 263.5797,-1243.0734 260.8012,-1253.5632 275.7583,-1264 281.6822,-1268.1336 288.3377,-1271.8096 295.0595,-1275.016" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="293.6459,-1278.2178 304.2042,-1279.0964 296.4982,-1271.8253 293.6459,-1278.2178" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;Math.sqrt -->
+<g id="edge19" class="edge" data-name="UniswapV2Pair.mint->Math.sqrt">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M156.8083,-1204.4531C181.9475,-1201.335 218.7753,-1194.5434 247.7583,-1180 262.4077,-1172.6491 261.1687,-1163.469 275.7583,-1156 331.2081,-1127.6132 353.4078,-1144.212 411.9785,-1123 434.8723,-1114.7088 459.5,-1102.5041 478.0139,-1092.6096" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="479.7161,-1095.6681 486.8363,-1087.8224 476.3776,-1089.5154 479.7161,-1095.6681" style=""></polygon>
+</g>
+<!-- Math.min -->
+<g id="node80" class="node" data-name="Math.min">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="507.4995" cy="-1022" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="507.4995" y="-1017.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">min</text>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;Math.min -->
+<g id="edge22" class="edge" data-name="UniswapV2Pair.mint->Math.min">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M156.5072,-1209.4493C184.3927,-1210.0887 225.7079,-1206.0558 247.7583,-1180 284.0615,-1137.1023 234.9357,-713.6219 275.7583,-675 319.7372,-633.392 363.8216,-638.3083 411.9785,-675 463.4951,-714.2515 494.2149,-917.4778 504.0378,-993.3714" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="500.6058,-994.1297 505.3354,-1003.6102 507.5502,-993.2495 500.6058,-994.1297" style=""></polygon>
+</g>
+<!-- balance0.sub -->
+<g id="node99" class="node" data-name="balance0.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-1068" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-1063.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sub</text>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;balance0.sub -->
+<g id="edge16" class="edge" data-name="UniswapV2Pair.mint->balance0.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M156.7568,-1207.2826C183.077,-1206.0929 221.7119,-1200.5449 247.7583,-1180 269.919,-1162.5201 258.4717,-1145.3118 275.7583,-1123 286.1939,-1109.5309 300.3627,-1096.9586 312.7265,-1087.2436" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="315.0932,-1089.8407 320.9297,-1080.9984 310.8529,-1084.2711 315.0932,-1089.8407" style=""></polygon>
+</g>
+<!-- balance1.sub -->
+<g id="node101" class="node" data-name="balance1.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-929" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-924.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sub</text>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;balance1.sub -->
+<g id="edge17" class="edge" data-name="UniswapV2Pair.mint->balance1.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M156.5582,-1209.0422C184.0755,-1209.3011 224.7466,-1204.9212 247.7583,-1180 307.4544,-1115.3503 233.4309,-1061.1466 275.7583,-984 284.033,-968.9183 298.1855,-956.11 311.0916,-946.6582" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="313.1036,-949.5222 319.3185,-940.9416 309.1092,-943.7737 313.1036,-949.5222" style=""></polygon>
+</g>
+<!-- amount0.mul -->
+<g id="node103" class="node" data-name="amount0.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-790" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-785.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;amount0.mul -->
+<g id="edge20" class="edge" data-name="UniswapV2Pair.mint->amount0.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M155.8352,-1202.5461C183.6047,-1200.9058 225.2052,-1196.9055 247.7583,-1171 296.8104,-1114.6565 241.7554,-902.5169 275.7583,-836 282.6872,-822.4455 294.538,-810.8403 306.1798,-802.4322" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="308.1406,-805.3316 314.5465,-796.8926 304.2762,-799.4949 308.1406,-805.3316" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;amount0.mul -->
+<g id="edge23" class="edge" data-name="UniswapV2Pair.mint->amount0.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M153.2889,-1215.785C181.0025,-1219.1332 224.5048,-1215.71 247.7583,-1189 296.8104,-1132.6565 241.7554,-920.5169 275.7583,-854 284.7977,-836.3171 302.2136,-821.9516 316.6144,-811.0098" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="318.7676,-813.7698 324.6587,-804.9638 314.5619,-808.174 318.7676,-813.7698" style=""></polygon>
+</g>
+<!-- amount1.mul -->
+<g id="node104" class="node" data-name="amount1.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-705" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-700.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Pair.mint&#45;&gt;amount1.mul -->
+<g id="edge24" class="edge" data-name="UniswapV2Pair.mint->amount1.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M156.4459,-1209.3972C184.2838,-1209.996 225.5626,-1205.9321 247.7583,-1180 308.5833,-1108.9356 233.8836,-843.6441 275.7583,-760 283.4593,-744.6174 297.5637,-731.7839 310.5863,-722.3933" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="312.6128,-725.2478 318.9096,-716.7272 308.6736,-719.4613 312.6128,-725.2478" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.burn -->
+<g id="node48" class="node" data-name="UniswapV2Pair.burn">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1315" rx="28.9754" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1310.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">burn</text>
+</g>
+<!-- UniswapV2Pair.burn&#45;&gt;UniswapV2ERC20._burn -->
+<g id="edge31" class="edge" data-name="UniswapV2Pair.burn->UniswapV2ERC20._burn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.5887,-1313.6969C183.5388,-1314.0747 223.2711,-1318.9919 247.7583,-1342 280.1483,-1372.4335 242.0531,-1409.0299 275.7583,-1438 328.4605,-1483.2982 414.3183,-1481.8731 465.4137,-1475.9592" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="465.9761,-1479.416 475.4569,-1474.6868 465.0962,-1472.4715 465.9761,-1479.416" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.burn&#45;&gt;UniswapV2Pair.getReserves -->
+<g id="edge27" class="edge" data-name="UniswapV2Pair.burn->UniswapV2Pair.getReserves">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.7935,-1315.955C183.5108,-1315.2785 222.7423,-1310.1112 247.7583,-1288 275.3558,-1263.607 250.4258,-1236.7377 275.7583,-1210 279.3521,-1206.2069 283.5623,-1202.9247 288.0779,-1200.0891" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="289.9685,-1203.0442 297.0564,-1195.1695 286.6048,-1196.9053 289.9685,-1203.0442" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.burn&#45;&gt;UniswapV2Pair._safeTransfer -->
+<g id="edge32" class="edge" data-name="UniswapV2Pair.burn->UniswapV2Pair._safeTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.9109,-1314.2916C189.2127,-1316.806 242.2045,-1323.8897 282.865,-1330.8698" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="282.4613,-1334.3524 292.9167,-1332.6393 283.675,-1327.4584 282.4613,-1334.3524" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.burn&#45;&gt;UniswapV2Pair._safeTransfer -->
+<g id="edge33" class="edge" data-name="UniswapV2Pair.burn->UniswapV2Pair._safeTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M153.8732,-1323.2928C181.6819,-1329.1712 227.055,-1336.2095 266.0241,-1341.0159" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="265.9549,-1344.5326 276.3006,-1342.2485 266.7886,-1337.5824 265.9549,-1344.5326" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.burn&#45;&gt;UniswapV2Pair._update -->
+<g id="edge34" class="edge" data-name="UniswapV2Pair.burn->UniswapV2Pair._update">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.8083,-1312.4531C181.9475,-1309.335 218.7753,-1302.5434 247.7583,-1288 262.4077,-1280.6491 261.8162,-1272.6175 275.7583,-1264 282.6966,-1259.7115 290.4362,-1255.8065 298.0714,-1252.3812" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="299.4531,-1255.597 307.2719,-1248.4474 296.7011,-1249.1606 299.4531,-1255.597" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.burn&#45;&gt;UniswapV2Pair._mintFee -->
+<g id="edge28" class="edge" data-name="UniswapV2Pair.burn->UniswapV2Pair._mintFee">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.469,-1311.7633C189.0793,-1308.0713 243.1826,-1301.9461 284.1961,-1297.3028" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="284.7775,-1300.7595 294.3202,-1296.1567 283.9899,-1293.8039 284.7775,-1300.7595" style=""></polygon>
+</g>
+<!-- liquidity.mul -->
+<g id="node105" class="node" data-name="liquidity.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-590" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-585.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Pair.burn&#45;&gt;liquidity.mul -->
+<g id="edge29" class="edge" data-name="UniswapV2Pair.burn->liquidity.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M156.0388,-1310.72C183.9705,-1309.2183 225.6981,-1305.3264 247.7583,-1279 291.5496,-1226.7398 252.6399,-730.1431 275.7583,-666 283.4788,-644.5792 298.614,-624.0916 312.2404,-609.6021" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="315.0297,-611.7607 319.5986,-602.2017 310.0658,-606.8251 315.0297,-611.7607" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.burn&#45;&gt;liquidity.mul -->
+<g id="edge30" class="edge" data-name="UniswapV2Pair.burn->liquidity.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M152.9752,-1323.8821C180.8331,-1327.4772 224.876,-1324.3076 247.7583,-1297 291.5496,-1244.7398 252.6399,-748.1431 275.7583,-684 285.378,-657.3095 306.5095,-632.0681 321.89,-614.1932" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="324.6224,-616.3838 328.49,-606.5201 319.3155,-611.819 324.6224,-616.3838" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.swap -->
+<g id="node49" class="node" data-name="UniswapV2Pair.swap">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1153" rx="30.7577" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1148.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">swap</text>
+</g>
+<!-- UniswapV2Pair.swap&#45;&gt;UniswapV2Pair.getReserves -->
+<g id="edge35" class="edge" data-name="UniswapV2Pair.swap->UniswapV2Pair.getReserves">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M158.252,-1157.2983C189.1103,-1161.6652 237.8115,-1168.5572 277.0171,-1174.1055" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="276.6298,-1177.5855 287.0216,-1175.5213 277.6107,-1170.6545 276.6298,-1177.5855" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.swap&#45;&gt;UniswapV2Pair._safeTransfer -->
+<g id="edge36" class="edge" data-name="UniswapV2Pair.swap->UniswapV2Pair._safeTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M155.2264,-1144.4934C182.5111,-1142.1039 223.7318,-1146.455 247.7583,-1171 291.5363,-1215.7228 236.1062,-1260.5815 275.7583,-1309 281.4847,-1315.9924 289.3417,-1321.2039 297.5942,-1325.3031" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="296.4289,-1328.6157 306.9872,-1329.4942 299.2812,-1322.2232 296.4289,-1328.6157" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.swap&#45;&gt;UniswapV2Pair._safeTransfer -->
+<g id="edge37" class="edge" data-name="UniswapV2Pair.swap->UniswapV2Pair._safeTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.5462,-1158.1967C184.802,-1160.3629 224.4033,-1165.141 247.7583,-1189 291.5363,-1233.7228 236.1062,-1278.5815 275.7583,-1327 276.2605,-1327.6132 276.779,-1328.2127 277.3128,-1328.7986" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="275.2201,-1331.622 285.0134,-1335.6646 279.8787,-1326.3972 275.2201,-1331.622" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.swap&#45;&gt;UniswapV2Pair._update -->
+<g id="edge43" class="edge" data-name="UniswapV2Pair.swap->UniswapV2Pair._update">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M158.7487,-1154.9197C184.0974,-1157.6342 220.1838,-1164.1863 247.7583,-1180 263.5797,-1189.0734 260.8012,-1199.5632 275.7583,-1210 282.3044,-1214.5677 289.7436,-1218.5766 297.1786,-1222.0107" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="295.9585,-1225.2962 306.5263,-1226.052 298.7363,-1218.871 295.9585,-1225.2962" style=""></polygon>
+</g>
+<!-- balance0.mul -->
+<g id="node100" class="node" data-name="balance0.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-1014" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-1009.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Pair.swap&#45;&gt;balance0.mul -->
+<g id="edge38" class="edge" data-name="UniswapV2Pair.swap->balance0.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M145.0788,-1137.6792C171.6655,-1114.546 224.9909,-1070.2974 275.7583,-1041 285.3498,-1035.4648 296.2953,-1030.4309 306.3944,-1026.2492" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="307.7583,-1029.4734 315.7457,-1022.5127 305.1609,-1022.9731 307.7583,-1029.4734" style=""></polygon>
+</g>
+<!-- balance1.mul -->
+<g id="node102" class="node" data-name="balance1.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-875" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-870.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Pair.swap&#45;&gt;balance1.mul -->
+<g id="edge40" class="edge" data-name="UniswapV2Pair.swap->balance1.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M133.8546,-1135.2101C149.8318,-1090.1471 197.7062,-970.2495 275.7583,-902 284.0948,-894.7105 294.6844,-889.1789 304.8435,-885.0812" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="306.1859,-888.3168 314.3641,-881.5813 303.7706,-881.7467 306.1859,-888.3168" style=""></polygon>
+</g>
+<!-- amount0In.mul -->
+<g id="node106" class="node" data-name="amount0In.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-505" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-500.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Pair.swap&#45;&gt;amount0In.mul -->
+<g id="edge39" class="edge" data-name="UniswapV2Pair.swap->amount0In.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M128.4749,-1134.7479C131.7302,-1058.5123 152.1636,-760.2097 275.7583,-560 284.7087,-545.5014 298.7405,-532.8341 311.3976,-523.3224" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="313.7712,-525.9274 319.8612,-517.2578 309.694,-520.2374 313.7712,-525.9274" style=""></polygon>
+</g>
+<!-- amount1In.mul -->
+<g id="node107" class="node" data-name="amount1In.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-420" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-415.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Pair.swap&#45;&gt;amount1In.mul -->
+<g id="edge41" class="edge" data-name="UniswapV2Pair.swap->amount1In.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M130.2307,-1134.9886C142.9209,-1039.5719 205.2758,-593.0529 275.7583,-475 284.4928,-460.3703 298.5047,-447.691 311.2044,-438.2051" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="313.5821,-440.8093 319.7059,-432.1635 309.5271,-435.1033 313.5821,-440.8093" style=""></polygon>
+</g>
+<!-- balance0Adjusted.mul -->
+<g id="node108" class="node" data-name="balance0Adjusted.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="339.8684" cy="-335" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="339.8684" y="-330.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Pair.swap&#45;&gt;balance0Adjusted.mul -->
+<g id="edge42" class="edge" data-name="UniswapV2Pair.swap->balance0Adjusted.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M129.7676,-1134.8049C140.6752,-1032.0288 197.857,-524.0028 275.7583,-390 284.3217,-375.2696 298.3178,-362.5809 311.0513,-353.1149" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="313.4327,-355.7181 319.5828,-347.091 309.3951,-349.9998 313.4327,-355.7181" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.skim -->
+<g id="node50" class="node" data-name="UniswapV2Pair.skim">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1369" rx="29.6339" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1364.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">skim</text>
+</g>
+<!-- UniswapV2Pair.skim&#45;&gt;UniswapV2Pair._safeTransfer -->
+<g id="edge44" class="edge" data-name="UniswapV2Pair.skim->UniswapV2Pair._safeTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M155.1591,-1361.2092C182.978,-1356.1922 227.3694,-1350.5764 265.6615,-1346.9286" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="266.1272,-1350.4006 275.7647,-1345.9996 265.4862,-1343.43 266.1272,-1350.4006" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.skim&#45;&gt;UniswapV2Pair._safeTransfer -->
+<g id="edge45" class="edge" data-name="UniswapV2Pair.skim->UniswapV2Pair._safeTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.8024,-1370.4852C189.4048,-1368.8675 240.0757,-1363.5559 279.9471,-1357.9318" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="280.701,-1361.3591 290.0942,-1356.4582 279.6949,-1354.4318 280.701,-1361.3591" style=""></polygon>
+</g>
+<!-- UniswapV2Pair.sync -->
+<g id="node51" class="node" data-name="UniswapV2Pair.sync">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-1261" rx="28.9735" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-1256.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sync</text>
+</g>
+<!-- UniswapV2Pair.sync&#45;&gt;UniswapV2Pair._update -->
+<g id="edge46" class="edge" data-name="UniswapV2Pair.sync->UniswapV2Pair._update">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.469,-1257.7633C190.4337,-1253.918 247.7139,-1247.4331 289.2362,-1242.7322" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="289.8867,-1246.181 299.4294,-1241.5782 289.0992,-1239.2255 289.8867,-1246.181" style=""></polygon>
+</g>
+<!-- IUniswapV2Pair.name -->
+<g id="node52" class="node" data-name="IUniswapV2Pair.name">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4417" rx="31.9012" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4412.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">name</text>
+</g>
+<!-- IUniswapV2Pair.symbol -->
+<g id="node53" class="node" data-name="IUniswapV2Pair.symbol">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4363" rx="39.4466" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4358.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">symbol</text>
+</g>
+<!-- IUniswapV2Pair.decimals -->
+<g id="node54" class="node" data-name="IUniswapV2Pair.decimals">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4309" rx="45.2208" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4304.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">decimals</text>
+</g>
+<!-- IUniswapV2Pair.totalSupply -->
+<g id="node55" class="node" data-name="IUniswapV2Pair.totalSupply">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4255" rx="55.6372" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4250.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">totalSupply</text>
+</g>
+<!-- IUniswapV2Pair.balanceOf -->
+<g id="node56" class="node" data-name="IUniswapV2Pair.balanceOf">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4201" rx="50.9211" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4196.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">balanceOf</text>
+</g>
+<!-- IUniswapV2Pair.allowance -->
+<g id="node57" class="node" data-name="IUniswapV2Pair.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4147" rx="50.3586" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4142.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">allowance</text>
+</g>
+<!-- IUniswapV2Pair.approve -->
+<g id="node58" class="node" data-name="IUniswapV2Pair.approve">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4093" rx="42.2777" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4088.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">approve</text>
+</g>
+<!-- IUniswapV2Pair.transfer -->
+<g id="node59" class="node" data-name="IUniswapV2Pair.transfer">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4039" rx="40.5441" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4034.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">transfer</text>
+</g>
+<!-- IUniswapV2Pair.transferFrom -->
+<g id="node60" class="node" data-name="IUniswapV2Pair.transferFrom">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3985" rx="61.3916" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3980.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">transferFrom</text>
+</g>
+<!-- IUniswapV2Pair.DOMAIN_SEPARATOR -->
+<g id="node61" class="node" data-name="IUniswapV2Pair.DOMAIN_SEPARATOR">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3931" rx="111.7584" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3926.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">DOMAIN_SEPARATOR</text>
+</g>
+<!-- IUniswapV2Pair.PERMIT_TYPEHASH -->
+<g id="node62" class="node" data-name="IUniswapV2Pair.PERMIT_TYPEHASH">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3877" rx="101.8844" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3872.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">PERMIT_TYPEHASH</text>
+</g>
+<!-- IUniswapV2Pair.nonces -->
+<g id="node63" class="node" data-name="IUniswapV2Pair.nonces">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3823" rx="37.7025" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3818.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">nonces</text>
+</g>
+<!-- IUniswapV2Pair.permit -->
+<g id="node64" class="node" data-name="IUniswapV2Pair.permit">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3769" rx="36.4936" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3764.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">permit</text>
+</g>
+<!-- IUniswapV2Pair.MINIMUM_LIQUIDITY -->
+<g id="node65" class="node" data-name="IUniswapV2Pair.MINIMUM_LIQUIDITY">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3715" rx="111.1365" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3710.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">MINIMUM_LIQUIDITY</text>
+</g>
+<!-- IUniswapV2Pair.factory -->
+<g id="node66" class="node" data-name="IUniswapV2Pair.factory">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3661" rx="38.2607" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3656.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">factory</text>
+</g>
+<!-- IUniswapV2Pair.token0 -->
+<g id="node67" class="node" data-name="IUniswapV2Pair.token0">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3607" rx="37.1424" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3602.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">token0</text>
+</g>
+<!-- IUniswapV2Pair.token1 -->
+<g id="node68" class="node" data-name="IUniswapV2Pair.token1">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3553" rx="37.1424" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3548.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">token1</text>
+</g>
+<!-- IUniswapV2Pair.getReserves -->
+<g id="node69" class="node" data-name="IUniswapV2Pair.getReserves">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3499" rx="57.881" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3494.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getReserves</text>
+</g>
+<!-- IUniswapV2Pair.price0CumulativeLast -->
+<g id="node70" class="node" data-name="IUniswapV2Pair.price0CumulativeLast">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3445" rx="96.7061" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3440.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">price0CumulativeLast</text>
+</g>
+<!-- IUniswapV2Pair.price1CumulativeLast -->
+<g id="node71" class="node" data-name="IUniswapV2Pair.price1CumulativeLast">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3391" rx="96.7061" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3386.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">price1CumulativeLast</text>
+</g>
+<!-- IUniswapV2Pair.kLast -->
+<g id="node72" class="node" data-name="IUniswapV2Pair.kLast">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3337" rx="32.4808" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3332.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">kLast</text>
+</g>
+<!-- IUniswapV2Pair.mint -->
+<g id="node73" class="node" data-name="IUniswapV2Pair.mint">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3283" rx="28.991" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3278.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mint</text>
+</g>
+<!-- IUniswapV2Pair.burn -->
+<g id="node74" class="node" data-name="IUniswapV2Pair.burn">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3229" rx="28.9754" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3224.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">burn</text>
+</g>
+<!-- IUniswapV2Pair.swap -->
+<g id="node75" class="node" data-name="IUniswapV2Pair.swap">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3175" rx="30.7577" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3170.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">swap</text>
+</g>
+<!-- IUniswapV2Pair.skim -->
+<g id="node76" class="node" data-name="IUniswapV2Pair.skim">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3121" rx="29.6339" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3116.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">skim</text>
+</g>
+<!-- IUniswapV2Pair.sync -->
+<g id="node77" class="node" data-name="IUniswapV2Pair.sync">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3067" rx="28.9735" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3062.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sync</text>
+</g>
+<!-- IUniswapV2Pair.initialize -->
+<g id="node78" class="node" data-name="IUniswapV2Pair.initialize">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-3013" rx="44.6549" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-3008.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">initialize</text>
+</g>
+<!-- UQ112x112.encode -->
+<g id="node81" class="node" data-name="UQ112x112.encode">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.8792" cy="-4556" rx="38.2645" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4551.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">encode</text>
+</g>
+<!-- UQ112x112.uqdiv -->
+<g id="node82" class="node" data-name="UQ112x112.uqdiv">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.8792" cy="-4502" rx="33.0682" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4497.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">uqdiv</text>
+</g>
+<!-- IERC20.name -->
+<g id="node83" class="node" data-name="IERC20.name">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-5073" rx="31.9012" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-5068.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">name</text>
+</g>
+<!-- IERC20.symbol -->
+<g id="node84" class="node" data-name="IERC20.symbol">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-5019" rx="39.4466" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-5014.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">symbol</text>
+</g>
+<!-- IERC20.decimals -->
+<g id="node85" class="node" data-name="IERC20.decimals">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4965" rx="45.2208" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4960.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">decimals</text>
+</g>
+<!-- IERC20.totalSupply -->
+<g id="node86" class="node" data-name="IERC20.totalSupply">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4911" rx="55.6372" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4906.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">totalSupply</text>
+</g>
+<!-- IERC20.balanceOf -->
+<g id="node87" class="node" data-name="IERC20.balanceOf">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4857" rx="50.9211" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4852.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">balanceOf</text>
+</g>
+<!-- IERC20.allowance -->
+<g id="node88" class="node" data-name="IERC20.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4803" rx="50.3586" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4798.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">allowance</text>
+</g>
+<!-- IERC20.approve -->
+<g id="node89" class="node" data-name="IERC20.approve">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4749" rx="42.2777" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4744.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">approve</text>
+</g>
+<!-- IERC20.transfer -->
+<g id="node90" class="node" data-name="IERC20.transfer">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4695" rx="40.5441" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4690.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">transfer</text>
+</g>
+<!-- IERC20.transferFrom -->
+<g id="node91" class="node" data-name="IERC20.transferFrom">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-4641" rx="61.3916" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-4636.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">transferFrom</text>
+</g>
+<!-- IUniswapV2Callee.uniswapV2Call -->
+<g id="node92" class="node" data-name="IUniswapV2Callee.uniswapV2Call">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.8792" cy="-5158" rx="71.2268" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="127.8792" y="-5153.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">uniswapV2Call</text>
+</g>
+<!-- key -->
+<g id="node109" class="node" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="192.8792,-5313 62.8792,-5313 62.8792,-5225 192.8792,-5225 192.8792,-5313" style=""></polygon>
+<text text-anchor="start" x="112.5152" y="-5294.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Internal Call</text>
+<text text-anchor="start" x="108.6232" y="-5274.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">External Call</text>
+<text text-anchor="start" x="86.0846" y="-5254.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Defined Contract</text>
+<text text-anchor="start" x="72.4819" y="-5234.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node110" class="node" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="366.8684,-5313 312.8684,-5313 312.8684,-5225 366.8684,-5225 366.8684,-5313" style=""></polygon>
+<text text-anchor="start" x="327.6275" y="-5294.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<text text-anchor="start" x="327.6275" y="-5274.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="#445773" stroke="transparent" points="325.8684,-5249 325.8684,-5269 353.8684,-5269 353.8684,-5249 325.8684,-5249" style=""></polygon>
+<text text-anchor="start" x="327.6275" y="-5254.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="none" stroke="#e8726d" points="327.8684,-5231 327.8684,-5247 351.8684,-5247 351.8684,-5231 327.8684,-5231" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge47" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M184.8792,-5299C243.9918,-5299 261.2811,-5299 315.656,-5299" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="315.8684,-5302.5001 325.8684,-5299 315.8684,-5295.5001 315.8684,-5302.5001" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge48" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M184.8792,-5279C243.9918,-5279 261.2811,-5279 315.656,-5279" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="315.8684,-5282.5001 325.8684,-5279 315.8684,-5275.5001 315.8684,-5282.5001" style=""></polygon>
+</g>
+</g>
+</svg>
